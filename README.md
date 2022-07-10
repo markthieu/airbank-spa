@@ -2,9 +2,11 @@
 
 This is a single page application displaying a list of transactions. Backend is done using a PostgreSQL db, Prisma and GraphQL with Typescript. Frontend is using Vue.js framework with Tailwind CSS.
 
-# Features
+# Demo video
 
-How to set up
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/pELp2st1Dck/0.jpg)](http://www.youtube.com/watch?v=pELp2st1Dck)
+
+# How to set up
 
 Backend
 
