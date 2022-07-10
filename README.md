@@ -1,6 +1,6 @@
 # airbank-spa
 
-This is a single page application displaying a list of transactions. Backend is done using a PostgreSQL db, Prisma and GraphQL with Typescript. Frontend is using Vue.js framework with Tailwind CSS.
+This is a single page application displaying a list of transactions. Backend is done using a PostgreSQL db, Prisma and GraphQL with Typescript. Frontend is using Nuxt/Vue.js framework with Tailwind CSS.
 
 # Demo video
 
